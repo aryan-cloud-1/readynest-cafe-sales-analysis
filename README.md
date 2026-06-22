@@ -54,7 +54,7 @@ Built in Tableau Public. Includes:
 - AOV by Location — A/B comparison
 - Filters for Item, Month, Location, Payment Method
 
-**Tableau Public link:** _[add your link here]_
+**Tableau Public link:** [ReadyNest | Tableau Public](https://public.tableau.com/app/profile/aryan.sharma6963/viz/ReadyNest/ReadyNestCorp?publish=yes)
 
 ## Tools used
 
